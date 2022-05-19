@@ -1,4 +1,4 @@
-name = input("Please provide a statement as input:")
+name = input("Please provide an input:")
 count = 0
 if name.__contains__("a"): 
     count = count + name.count("a")
